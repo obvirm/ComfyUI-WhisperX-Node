@@ -3,7 +3,7 @@
 This custom node provides a comprehensive interface for the [WhisperX library](https://github.com/m-bain/whisperx) within ComfyUI, allowing for advanced speech-to-text transcription, word-level timestamp alignment, and speaker diarization.
 
 It has been designed with a robust model management system to handle unstable network connections gracefully.
-
+![Alt Text](https://github.com/obvirm/ComfyUI-WhisperX-Node/blob/main/preview.png)
 ## Features
 
 - **High-Quality Transcription**: Utilizes `faster-whisper` for fast and accurate speech-to-text.
